@@ -199,7 +199,7 @@ The following options are available for you to install the NeoLine plugin, you c
 
 After you installed the NeoLine and pined it to the browser shortcut, then see the gif below to create a wallet.
 
-<img src="./images/create.gif" alt="create" style="zoom:50%;" />
+<img src="./images/create.gif" alt="create" style="zoom:25%;" />
 
 The following shows that how to transfer `N3 Gas`. you can check the transaction at [N3 NeoTube](https://neo3.neotube.io).
 
